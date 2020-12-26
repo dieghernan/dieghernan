@@ -1,6 +1,23 @@
 <h1 align="center">dieghernan</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dieghernan&label=Profile%20views&color=44be16&style=flat" alt="dieghernan" /></p>
 
+<h3 align="left">Projects</h3>
+
+<h4 align="left">Blog</h4>
+https://dieghernan.github.io/
+
+<h4 align="left">R packages</h4>
+
+**{giscoR}**: Tools to download data from the GISCO (Geographic Information System of the Commission) Eurostat database.[Link](https://dieghernan.github.io/giscoR/)
+
+**{mapSpain}**: Administrative Boundaries of Spain at several levels (CCAA, Provinces, Municipalities). It also provides a ‘leaflet’ plugin and the ability of downloading and processing static tiles. [Link](https://ropenspain.github.io/mapSpain/)
+
+**{rostemplate}**: 'pkgdown' template for the [rOpenSpain](https://ropenspain.es/) project. [Link](https://ropenspain.github.io/rostemplate)
+
+<h5 align="left">Organizations</h5>
+
+<img src='https://ropenspain.es/img/logo-small.png' height=30>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://stackoverflow.com/users/7877917/dieghernan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dieghernan" height="30" width="40" /></a>
