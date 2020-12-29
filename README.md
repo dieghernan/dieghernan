@@ -2,12 +2,12 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dieghernan&label=Profile%20views&color=44be16&style=flat" alt="dieghernan" /></p>
 
 
-<h3 align="left">Organizations</h3>
-<img src='https://ropenspain.es/img/logo-small.png' height=30>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dieghernan.github.io/">Blog</a>
     <a href="https://stackoverflow.com/users/7877917/dieghernan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dieghernan" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,9 +29,6 @@
 
 <h3 align="left">Projects</h3>
 
-<h4 align="left">Blog</h4>
-https://dieghernan.github.io/
-
 <h4 align="left">R packages</h4>
 
 - **{giscoR}**: Tools to download data from the GISCO (Geographic Information System of the Commission) Eurostat database. [web](https://dieghernan.github.io/giscoR/)
@@ -46,4 +43,7 @@ https://dieghernan.github.io/
 
 - **[leaflet-providersESP](https://dieghernan.github.io/leaflet-providersESP/)**, a javascript plug-in for Leafletjs that contains configurations for various free WMS/WMTS tile providers of Spain.
 
-[See more projects...](https://dieghernan.github.io/projects/)
+[See more...](https://dieghernan.github.io/projects/)
+
+<h3 align="left">Organizations</h3>
+<a href="https://ropenspain.es/" target="blank"><img src='https://ropenspain.es/img/logo-small.png' height=30></a>
