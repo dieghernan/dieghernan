@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dieghernan.github.io/">Blog</a>
-    <a href="https://stackoverflow.com/users/7877917/dieghernan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dieghernan" height="30" width="40" /></a>
+<a href="https://dieghernan.github.io/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/blog.svg" alt="Blog" height="30"></a>
+    <a href="https://stackoverflow.com/users/7877917/dieghernan" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/stack-overflow.svg" alt="StackOverflow" height="30" /></a>
 
 </p>
 
