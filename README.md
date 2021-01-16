@@ -35,6 +35,8 @@
 
 - **{mapSpain}**: Administrative Boundaries of Spain at several levels (CCAA, Provinces, Municipalities). It also provides a ‘leaflet’ plugin and the ability of downloading and processing static tiles. [web](https://ropenspain.github.io/mapSpain/)
 
+- **{igoR}**: Tools to extract information from the Intergovernmental Organizations (‘IGO’) Database, provided by the [Correlates of War Project](https://correlatesofwar.org/data-sets/IGOs). [web](https://dieghernan.github.io/igoR/)
+
 - **{rostemplate}**: 'pkgdown' template for the [rOpenSpain](https://ropenspain.es/) project. [web](https://ropenspain.github.io/rostemplate)
 
 <h4 align="left">Other projects</h4>
