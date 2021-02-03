@@ -41,6 +41,9 @@
 
 <h4 align="left">Other projects</h4>
 
+— **[spain-munic-bot](https://dieghernan.github.io/spain-munic-bot/): A Twitter bot written in R that tweets a random map of Spanish towns, [@spainmunic](https://twitter.com/spainmunic).
+<img src="https://dieghernan.github.io/spain-munic-bot/assets/img/munic-streets.png" alt="sass" height="100" />
+
 - **[chulapa](https://dieghernan.github.io/chulapa)**: A full flexible Jekyll theme for Github Pages build with Bootstrap 4.
 
 - **[leaflet-providersESP](https://dieghernan.github.io/leaflet-providersESP/)**, a javascript plug-in for Leafletjs that contains configurations for various free WMS/WMTS tile providers of Spain.
