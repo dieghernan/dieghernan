@@ -45,9 +45,9 @@
 
 - **[leaflet-providersESP](https://dieghernan.github.io/leaflet-providersESP/)**, a javascript plug-in for Leafletjs that contains configurations for various free WMS/WMTS tile providers of Spain.
 
-— **[spain-munic-bot](https://dieghernan.github.io/spain-munic-bot/): A [Twitter bot](https://twitter.com/spainmunic) written in R that tweets a random map of Spanish towns.
+- **[spain-munic-bot](https://dieghernan.github.io/spain-munic-bot/)**: A [Twitter bot](https://twitter.com/spainmunic) written in R that tweets a random map of Spanish towns.
 
-[spainmunic](https://dieghernan.github.io/spain-munic-bot/assets/img/munic-streets.png)
+![spainmunic](https://dieghernan.github.io/spain-munic-bot/assets/img/munic-streets.png)
 
 [See more...](https://dieghernan.github.io/projects/)
 
