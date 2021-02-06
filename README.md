@@ -47,7 +47,11 @@
 
 - **[spain-munic-bot](https://dieghernan.github.io/spain-munic-bot/)**: A [Twitter bot](https://twitter.com/spainmunic) written in R that tweets a random map of Spanish towns.
 
-![spainmunic](https://dieghernan.github.io/spain-munic-bot/assets/img/munic-streets.png)
+<p align="center">
+  <img width="200" src="https://dieghernan.github.io/spain-munic-bot/assets/img/munic-streets.png">
+</p>
+
+
 
 [See more...](https://dieghernan.github.io/projects/)
 
