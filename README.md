@@ -21,11 +21,11 @@
     <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dieghernan&show_icons=true&locale=en&layout=compact" alt="dieghernan" /></p>
+<p><img align="center" src=https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dieghernan&skills=JavaScript,R,HTML,CSS,SASS,Liquid&height=150&width=400" alt="dieghernan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dieghernan&show_icons=true&locale=en" alt="dieghernan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dieghernan&show_icons=true&locale=en" alt="dieghernan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dieghernan&" alt="dieghernan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dieghernan&" alt="dieghernan" /></p>
 
 <h3 align="left">Projects</h3>
 
