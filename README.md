@@ -2,6 +2,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dieghernan&label=Profile%20views&color=44be16&style=flat" alt="dieghernan" /></p>
 
 [![ko-fi](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/dieghernan)
+[![](https://dieghernan.r-universe.dev/badges/:total)](https://dieghernan.r-universe.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +32,7 @@
 
 <h4 align="left">R packages</h4>
 
-- **{giscoR}**: Tools to download data from the GISCO (Geographic Information System of the Commission) Eurostat database. [web](https://dieghernan.github.io/giscoR/)
+- **{giscoR}**: Tools to download data from the GISCO (Geographic Information System of the Commission) Eurostat database. [web](https://ropensci.github.io/giscoR/)
 
 - **{mapSpain}**: Administrative Boundaries of Spain at several levels (CCAA, Provinces, Municipalities). It also provides a ‘leaflet’ plugin and the ability of downloading and processing static tiles. [web](https://ropenspain.github.io/mapSpain/)
 
