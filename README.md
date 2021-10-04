@@ -2,7 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=dieghernan&label=Profile%20views&color=44be16&style=flat" alt="dieghernan" />
 
 [![ko-fi](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/dieghernan)
-[![](https://dieghernan.r-universe.dev/badges/:total)](https://dieghernan.r-universe.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,13 +31,20 @@
 
 <h4 align="left">R packages</h4>
 
-- **{giscoR}**: Tools to download data from the GISCO (Geographic Information System of the Commission) Eurostat database. [web](https://ropensci.github.io/giscoR/)
+[![](https://dieghernan.r-universe.dev/badges/:total)](https://dieghernan.r-universe.dev/)
 
-- **{mapSpain}**: Administrative Boundaries of Spain at several levels (CCAA, Provinces, Municipalities). It also provides a ‘leaflet’ plugin and the ability of downloading and processing static tiles. [web](https://ropenspain.github.io/mapSpain/)
-
-- **{igoR}**: Tools to extract information from the Intergovernmental Organizations (IGO) Database, provided by the [Correlates of War](https://correlatesofwar.org/data-sets/IGOs) Project. [web](https://dieghernan.github.io/igoR/)
-
-- **{rostemplate}**: 'pkgdown' template for the [rOpenSpain](https://ropenspain.es/) project. [web](https://ropenspain.github.io/rostemplate)
+| Package | Release | GitHub |
+|:----------------:|:----------------:|:----------------:|
+| [_giscoR_](https://github.com/rOpenGov/giscoR) | [![](https://cranchecks.info/badges/worst/giscoR)](https://cran.r-project.org/package=giscoR) |[![](https://github.com/rOpenGov/giscoR/workflows/R-CMD-check/badge.svg)](https://github.com/rOpenGov/giscoR/actions?query=workflow:R-CMD-check) |
+| [_rogtemplate_](https://github.com/rOpenGov/rogtemplate) | |[![](https://github.com/rOpenGov/rogtemplate/workflows/R-CMD-check/badge.svg)](https://github.com/rOpenGov/rogtemplate/actions?query=workflow:R-CMD-check) |
+| [_mapSpain_](https://github.com/rOpenSpain/mapSpain) | [![](https://cranchecks.info/badges/worst/mapSpain)](https://cran.r-project.org/package=mapSpain) |[![](https://github.com/rOpenSpain/mapSpain/workflows/R-CMD-check/badge.svg)](https://github.com/rOpenSpain/mapSpain/actions?query=workflow:R-CMD-check) |
+| [_tidyBdE_](https://github.com/rOpenSpain/tidyBdE) | [![](https://cranchecks.info/badges/worst/tidyBdE)](https://cran.r-project.org/package=tidyBdE) |[![](https://github.com/rOpenSpain/tidyBdE/workflows/R-CMD-check/badge.svg)](https://github.com/rOpenSpain/tidyBdE/actions?query=workflow:R-CMD-check) |
+| [_climaemet_](https://github.com/rOpenSpain/climaemet) | [![](https://cranchecks.info/badges/worst/climaemet)](https://cran.r-project.org/package=climaemet) |[![](https://github.com/rOpenSpain/climaemet/workflows/R-CMD-check/badge.svg)](https://github.com/rOpenSpain/climaemet/actions?query=workflow:R-CMD-check) |
+| [_rostemplate_](https://github.com/rOpenSpain/rostemplate) | |[![](https://github.com/rOpenSpain/rostemplate/workflows/R-CMD-check/badge.svg)](https://github.com/rOpenSpain/rostemplate/actions?query=workflow:R-CMD-check)|
+| [_igoR_](https://github.com/dieghernan/igoR) | [![](https://cranchecks.info/badges/worst/igoR)](https://cran.r-project.org/package=igoR) |[![](https://github.com/dieghernan/igoR/workflows/R-CMD-check/badge.svg)](https://github.com/dieghernan/igoR/actions?query=workflow:R-CMD-check) |
+| [_nominatimlite_](https://github.com/dieghernan/nominatimlite) | [![](https://cranchecks.info/badges/worst/nominatimlite)](https://cran.r-project.org/package=nominatimlite) |[![](https://github.com/dieghernan/nominatimlite/workflows/R-CMD-check/badge.svg)](https://github.com/dieghernan/nominatimlite/actions?query=workflow:R-CMD-check) |
+| [_cffr_](https://github.com/dieghernan/cffr) |  |[![](https://github.com/dieghernan/cffr/workflows/R-CMD-check/badge.svg)](https://github.com/dieghernan/cffr/actions?query=workflow:R-CMD-check) |
+| [_pkgdev_](https://github.com/dieghernan/pkgdev) |  |[![](https://github.com/dieghernan/pkgdev/workflows/R-CMD-check/badge.svg)](https://github.com/dieghernan/pkgdev/actions?query=workflow:R-CMD-check) |
 
 <h4 align="left">Other projects</h4>
 
