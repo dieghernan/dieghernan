@@ -59,5 +59,9 @@
 [See more...](https://dieghernan.github.io/projects/)
 
 <h3 align="left">Organizations</h3>
-<a href="https://ropenspain.es/" target="blank"><img src='https://ropenspain.es/img/logo-small.png' height=30></a> <a href="http://ropengov.org/" target="blank"><img src='https://raw.githubusercontent.com/rOpenGov/homepage/master/static/images/logo2020_black_orange.svg' height=30></a>
+<a href="https://ropenspain.es/" target="blank"><img src='https://ropenspain.es/img/logo-small.png' height=30></a> 
+<a href="http://ropengov.org/" target="blank"><img src='https://raw.githubusercontent.com/rOpenGov/homepage/master/static/images/logo2020_black_orange.svg' height=30></a>
+<a href="https://ropensci.org/" target="blank"><img src='https://raw.githubusercontent.com/ropensci/software-review/master/icon_lettering_color.png' height=30></a>
+
+
 
