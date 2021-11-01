@@ -43,7 +43,7 @@
 | [_rostemplate_](https://github.com/rOpenSpain/rostemplate) | |[![](https://github.com/rOpenSpain/rostemplate/workflows/R-CMD-check/badge.svg)](https://github.com/rOpenSpain/rostemplate/actions?query=workflow:R-CMD-check)|
 | [_igoR_](https://github.com/dieghernan/igoR) | [![](https://cranchecks.info/badges/worst/igoR)](https://cran.r-project.org/package=igoR) |[![](https://github.com/dieghernan/igoR/workflows/R-CMD-check/badge.svg)](https://github.com/dieghernan/igoR/actions?query=workflow:R-CMD-check) |
 | [_nominatimlite_](https://github.com/dieghernan/nominatimlite) | [![](https://cranchecks.info/badges/worst/nominatimlite)](https://cran.r-project.org/package=nominatimlite) |[![](https://github.com/dieghernan/nominatimlite/workflows/R-CMD-check/badge.svg)](https://github.com/dieghernan/nominatimlite/actions?query=workflow:R-CMD-check) |
-| [_cffr_](https://github.com/dieghernan/cffr) |  |[![](https://github.com/dieghernan/cffr/workflows/R-CMD-check/badge.svg)](https://github.com/dieghernan/cffr/actions?query=workflow:R-CMD-check) |
+| [_cffr_](https://github.com/ropensci/cffr) |  |[![](https://github.com/ropensci/cffr/workflows/R-CMD-check/badge.svg)](https://github.com/ropensci/cffr/actions?query=workflow:R-CMD-check) |
 | [_pkgdev_](https://github.com/dieghernan/pkgdev) |  |[![](https://github.com/dieghernan/pkgdev/workflows/R-CMD-check/badge.svg)](https://github.com/dieghernan/pkgdev/actions?query=workflow:R-CMD-check) |
 
 <h4 align="left">Other projects</h4>
