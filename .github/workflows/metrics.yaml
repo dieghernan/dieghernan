@@ -37,4 +37,12 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_rss: yes
+          plugin_rss_source: https://dieghernan.github.io/atom.xml
           plugin_rss_limit: 4
+          plugin_topics: yes
+          plugin_topics_sort: stars    # Sort by most starred topics
+          plugin_topics_mode: icons    # Display icons instead of labels
+          plugin_topics_limit: 0       # Disable limitations
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes                        # Display a screenshot of your website
+          plugin_pagespeed_url: https://dieghernan.github.io/                   # Website to audit (defaults to your GitHub linked website)
