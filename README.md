@@ -3,13 +3,6 @@
 
 [![ko-fi](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/dieghernan)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dieghernan.github.io/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/blog.svg" alt="Blog" height="30"></a>
-    <a href="https://stackoverflow.com/users/7877917/dieghernan" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/stack-overflow.svg" alt="StackOverflow" height="30" /></a>
-
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/Rlogo.png" alt="R Project" height="40" />   </a>
@@ -20,12 +13,6 @@
     <a href="https://jekyllrb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40" /></a>
     <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /></a>
 </p>
-
-<p><img align="center" src=https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dieghernan&skills=JavaScript,R,HTML,CSS,SASS,Liquid&height=150&width=400" alt="dieghernan" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dieghernan&show_icons=true&locale=en" alt="dieghernan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dieghernan&" alt="dieghernan" /></p>
 
 <h3 align="left">Projects</h3>
 
@@ -58,3 +45,6 @@
 <a href="https://ropenspain.es/" target="blank"><img src='https://ropenspain.es/img/logo-small.png' height=30></a><p>
 <a href="http://ropengov.org/" target="blank"><img src='https://raw.githubusercontent.com/rOpenGov/homepage/master/static/images/logo2020_black_orange.svg' height=30></a><p>
 <a href="https://ropensci.org/" target="blank"><img src='https://raw.githubusercontent.com/ropensci/software-review/master/icon_lettering_color.png' height=50></a>
+
+    
+![metrics](https://github.com/dieghernan/dieghernan/blob/master/github-metrics.svg)
