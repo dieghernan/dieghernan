@@ -37,7 +37,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 5%
           plugin_stackoverflow: yes
-          plugin_stackoverflow_user: dieghernan                           # Stackoverflow user id (required)
+          plugin_stackoverflow_user: 7877917                           # Stackoverflow user id (required)
           plugin_stackoverflow_sections: answers-top, questions-recent # Display top answers and recent questions
           plugin_stackoverflow_limit: 2                                # Display 2 entries per section
           plugin_stackoverflow_lines: 4                                # Display 4 lines per entry
