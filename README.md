@@ -3,6 +3,13 @@
 
 [![ko-fi](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/dieghernan)
 
+<h3 align="left">Connect with me:</h3>
+ <p align="left">
+ <a href="https://dieghernan.github.io/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/blog.svg" alt="Blog" height="30"></a>
+     <a href="https://stackoverflow.com/users/7877917/dieghernan" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/stack-overflow.svg" alt="StackOverflow" height="30" /></a>
+
+ </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/Rlogo.png" alt="R Project" height="40" />   </a>
