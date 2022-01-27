@@ -39,7 +39,7 @@
 | [_nominatimlite_](https://github.com/dieghernan/nominatimlite) | [![](https://cranchecks.info/badges/worst/nominatimlite)](https://cran.r-project.org/package=nominatimlite) |[![](https://github.com/dieghernan/nominatimlite/workflows/R-CMD-check/badge.svg)](https://github.com/dieghernan/nominatimlite/actions?query=workflow:R-CMD-check) | ![Downloads](https://cranlogs.r-pkg.org/badges/nominatimlite) |
 | [_cffr_](https://github.com/ropensci/cffr) | [![](https://cranchecks.info/badges/worst/cffr)](https://cran.r-project.org/package=cffr) |[![](https://github.com/ropensci/cffr/workflows/R-CMD-check/badge.svg)](https://github.com/ropensci/cffr/actions?query=workflow:R-CMD-check) | ![Downloads](https://cranlogs.r-pkg.org/badges/cffr) |
 | [_pkgdev_](https://github.com/dieghernan/pkgdev) |  |[![](https://github.com/dieghernan/pkgdev/workflows/R-CMD-check/badge.svg)](https://github.com/dieghernan/pkgdev/actions?query=workflow:R-CMD-check) | |
-| [_rasterpic_](https://github.com/dieghernan/rasterpic) |  |[![](https://github.com/dieghernan/rasterpic/workflows/R-CMD-check/badge.svg)](https://github.com/dieghernan/rasterpic/actions?query=workflow:R-CMD-check) | |
+| [_rasterpic_](https://github.com/dieghernan/rasterpic) | [![](https://cranchecks.info/badges/worst/rasterpic)](https://cran.r-project.org/package=rasterpic)  |[![](https://github.com/dieghernan/rasterpic/workflows/R-CMD-check/badge.svg)](https://github.com/dieghernan/rasterpic/actions?query=workflow:R-CMD-check) | ![Downloads](https://cranlogs.r-pkg.org/badges/rasterpic) |
 
 <h4 align="left">Other projects</h4>
 
