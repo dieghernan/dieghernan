@@ -1,7 +1,7 @@
 <h1 align="center">dieghernan</h1>
 <img src="https://komarev.com/ghpvc/?username=dieghernan&label=Profile%20views&color=44be16&style=flat" alt="dieghernan" />
 
-[![ko-fi](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/dieghernan)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K43H86Z)
 
 <h3 align="left">Connect with me:</h3>
  <p align="left">
