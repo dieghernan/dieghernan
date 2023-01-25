@@ -51,7 +51,8 @@
 [![chulapa](https://github-readme-stats.vercel.app/api/pin/?username=dieghernan&repo=chulapa)](https://github.com/dieghernan/chulapa)
 [![leaflet-providersESP](https://github-readme-stats.vercel.app/api/pin/?username=dieghernan&repo=leaflet-providersESP)](https://github.com/dieghernan/leaflet-providersESP)
 [![spain-munic-bot](https://github-readme-stats.vercel.app/api/pin/?username=dieghernan&repo=spain-munic-bot)](https://github.com/dieghernan/spain-munic-bot)
-    
+[![celestial_data](https://github-readme-stats.vercel.app/api/pin/?username=dieghernan&repo=celestial_data)](https://github.com/dieghernan/celestial_data)
+
 [See more...](https://dieghernan.github.io/projects/)
 
 <h3 align="left">Organizations</h3>
