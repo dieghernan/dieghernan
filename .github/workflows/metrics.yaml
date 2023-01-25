@@ -9,6 +9,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    env:
+      PAT_1: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: lowlighter/metrics@latest
         with:
