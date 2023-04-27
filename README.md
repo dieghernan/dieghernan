@@ -53,7 +53,7 @@
 [![spain-munic-bot](https://github-readme-stats.vercel.app/api/pin/?username=dieghernan&repo=spain-munic-bot)](https://github.com/dieghernan/spain-munic-bot)
 [![celestial_data](https://github-readme-stats.vercel.app/api/pin/?username=dieghernan&repo=celestial_data)](https://github.com/dieghernan/celestial_data)
 
-[See more...](https://dieghernan.github.io/projects/)
+[See more...](https://dieghernan.github.io/projects)
 
 <h3 align="left">Organizations</h3>
 <a href="https://ropenspain.es/" target="blank"><img src='https://ropenspain.es/img/logo-small.png' height=30></a><p>
