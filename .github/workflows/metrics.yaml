@@ -47,10 +47,8 @@ jobs:
           plugin_stackoverflow_lines: 4                                # Display 4 lines per entry
           plugin_stackoverflow_lines_snippet: 2                        # Display 2 lines in embed code snippets
           plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: chartist
-          plugin_stargazers_days: 180
-          plugin_stargazers_worldmap: yes
+          plugin_stargazers_days: 90
+          plugin_stargazers_charts_type: graph
           plugin_rss: yes
           plugin_rss_source: https://dieghernan.github.io/atom.xml
           plugin_rss_limit: 4
