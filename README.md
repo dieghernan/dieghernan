@@ -7,7 +7,7 @@
  <p align="left">
  <a href="https://dieghernan.github.io/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/blog.svg" alt="Blog" height="30"></a>&nbsp;
      <a href="https://stackoverflow.com/users/7877917/dieghernan" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/stack-overflow.svg" alt="StackOverflow" height="30" /></a>&nbsp;  
-     <a href="https://twitter.com/dhernangomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter.svg" alt="Twitter" height="30" /></a>&nbsp;  
+     <a href="https://twitter.com/dhernangomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" alt="Twitter" height="30" /></a>&nbsp;  
      <a rel="me" href="https://fosstodon.org/@dhernangomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/mastodon.svg" alt="Mastodon" height="30" /></a>&nbsp;
 
  </p>
