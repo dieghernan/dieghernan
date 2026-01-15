@@ -64,4 +64,4 @@
 <a href="https://ropensci.org/" target="blank"><img src='https://raw.githubusercontent.com/ropensci/software-review/master/icon_lettering_color.png' height=50></a>
 
     
-![metrics](https://github.com/dieghernan/dieghernan/blob/master/github-metrics.svg)
+![metrics](https://raw.githubusercontent.com/dieghernan/dieghernan/main/github-metrics.svg)
